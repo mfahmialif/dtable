@@ -1,0 +1,17 @@
+{
+    "name": "mfahmialif/dtable",
+    "description": "Data Table for Laravel 8",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mfahmialif\\Dtable\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "mfahmialif",
+        "email": "mfahmialif@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {}
+}
